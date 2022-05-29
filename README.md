@@ -27,14 +27,21 @@
   <a><img src="https://img.shields.io/badge/-Vue-07C160?logoColor=FFFFFF&style=flat&logo=Vue.js"></a>
   <a><img src="https://img.shields.io/badge/-小程序开发-07C160?style=flat&logo=WeChat&logoColor=ffffff"></a>
 
+
 #### Github stats
-<table style="border:none;font-size:0.92em;">  
-  <!-- <tr>
+  
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realyao&theme=vue">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=realyao&theme=vue">
+</p>
+  
+<!-- <table style="border:none;font-size:0.92em;">  
+  <tr>
     <td style="border:none;" align="center" colspan=2>
     <font style="font-size:25px"><strong> Github Stats </strong></font>
     </td>
   </tr>
-  <tr> -->
+  <tr> 
   <td style="border:none;" align="center" width="50%">
   <img src="https://github-readme-stats.vercel.app/api?username=realyao&layout=compact"/> 
   </td>
@@ -44,6 +51,6 @@
   </a>
   </td>
 </table>
-
+ -->
 
 </details>
